@@ -8,5 +8,5 @@
 <h4>After it, just type:</h4>
 <i>npm run dev</i><br/>
 
-<h5>And now you´re free to make the all changes you want !</h5>
+<h5>And now you´re free to make any changes you want !</h5>
 
