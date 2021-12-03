@@ -1,10 +1,10 @@
 <h1 text-align: center;>how can i edit something in the project?</h1>
 
 
-<p>First you need to download the npm: </p>
+<h4>First you need to download the npm: </h4>
 
 <i>npm install</i><br/><br/>
 
-<p>After it, just type:</p>
+<h4>After it, just type:</h4>
 <i>npm run dev</i><br/><br/>
 
