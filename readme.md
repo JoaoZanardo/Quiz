@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/Zanardo/Desktop/hubscreen.png"/>
+<img src="https://img-c.udemycdn.com/notices/web_banner/slid…e_udlite/27f9a130-87ba-47ce-afe6-7fffb4fed429.jpg"/>
 
 <h2 text-align: center;>how can i edit something in the project?</h2>
 
