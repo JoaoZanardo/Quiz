@@ -1,3 +1,5 @@
+<img src="file:///C:/Users/Zanardo/Desktop/hubscreen.png"/>
+
 <h2 text-align: center;>how can i edit something in the project?</h2>
 
 
