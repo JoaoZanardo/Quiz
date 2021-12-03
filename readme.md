@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/89542280/144654330-b90edcbe-9e96-4927-a9e9-67f77965561f.png"/>
-<!-- ![hubscreen](https://user-images.githubusercontent.com/89542280/144654330-b90edcbe-9e96-4927-a9e9-67f77965561f.png) -->
+<img src="![screeen](https://user-images.githubusercontent.com/89542280/144654477-c02cd6ee-1c25-466f-83be-20b14f29cfc2.png)"/>
 
 <h2 text-align: center;>how can i edit something in the project?</h2>
 
