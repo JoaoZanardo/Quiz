@@ -1,4 +1,4 @@
-<h1 text-align: center;>how can i edit something in the project?</h1>
+<h2 text-align: center;>how can i edit something in the project?</h2>
 
 
 <h4>First you need to download the npm: </h4>
