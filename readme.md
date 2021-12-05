@@ -10,7 +10,7 @@
 <h3>After it, just run the script 'dev':</h3>
 <i>npm run dev</i><br/>
 
-<h5>And now you´re free to make any changes you want !</h5>
+<h5>And now you´re free to make any changes you want !</h5><br/>
 
 <a href="https://blissful-pare-d58c98.netlify.app/">DEMO -V</a>
 
